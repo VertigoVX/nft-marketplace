@@ -1,7 +1,7 @@
 # NFT Marketplace
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/nft-marketplace/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/nft-marketplace)](https://github.com/your-username/nft-marketplace/issues)
+[![GitHub issues](https://img.shields.io/github/issues/VertigoVX/nft-marketplace)](https://github.com/your-username/nft-marketplace/issues)
 
 ## Table of Contents
 
