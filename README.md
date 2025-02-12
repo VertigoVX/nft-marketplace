@@ -11,10 +11,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Usage](#usage)s
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
